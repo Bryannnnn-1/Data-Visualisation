@@ -4,12 +4,12 @@ A project designed to visualise problems and solutions discovered by a parcel de
 
 ## Overview
 
-This repository contains data visualisation tools and scripts, built using Python, to help analyse and address operational challenges faced by parcel delivery and distribution businesses. The primary goal is to identify, illustrate, and solve common bottlenecks and inefficiencies using visual data insights.
+This repository contains data visualisation tools and scripts, built using Python, to help analyse and address operational challenges faced by parcel delivery and distribution businesses. The primary [...]
 
 ## Features
 
 - Visualisation of parcel flow and delivery processes
-- Identification of operational issues such as delayed shipments, misroutes, and resource allocation
+- Identification of issues frequency
 - Comparison of proposed solutions using interactive charts and graphs
 - Easy-to-understand dashboards for stakeholders
 
@@ -18,42 +18,27 @@ This repository contains data visualisation tools and scripts, built using Pytho
 - **Python** (100%)
 - Popular Python data visualisation libraries such as:
   - Matplotlib
-  - Seaborn
-  - Plotly
+  - csv
   - Pandas (for data manipulation)
-
-*Note: See `requirements.txt` or relevant documentation for full package list.*
-
-## Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Bryannnnn-1/Data-Visualisation.git
-   cd Data-Visualisation
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run example scripts or notebooks**
-   - Check out the `examples/` or `notebooks/` folder.
-   - Run a script:
-     ```bash
-     python example_script.py
-     ```
-
-4. **Input Your Own Data**
-   - Place your data files in the appropriate input directory.
-   - Adjust scripts as needed to point to your data sources.
 
 ## Example Visualisations
 
-- Delivery time histograms
-- Route optimisation plots
+- Delivery issue pie chart by type
+- Total issues
 - Heatmaps of bottleneck zones
-- Before/after solution comparisons
+- Delivery solution pie chart by type
+
+## Screenshots
+
+Here are some example screenshots of visualisations produced by this project:
+
+### Parcel Flow Dashboard
+![Parcel Flow Dashboard](screenshots/parcel_flow_dashboard.png)
+
+### Bottleneck Heatmap
+![Bottleneck Heatmap](screenshots/heatmap_bottlenecks.png)
+
+<!-- Add or replace these with your actual screenshots and paths as needed -->
 
 ## Contributing
 
