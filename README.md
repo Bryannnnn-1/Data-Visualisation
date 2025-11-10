@@ -4,7 +4,7 @@ A project designed to visualise problems and solutions discovered by a parcel de
 
 ## Overview
 
-This repository contains data visualisation tools and scripts, built using Python, to help analyse and address operational challenges faced by parcel delivery and distribution businesses. The primary goal is to identify, illustrate, and solve common bottlenecks and inefficiencies using visual data insights.
+This repository contains data visualisation tools and scripts, built using Python, to help analyse and address operational challenges faced by parcel delivery and distribution businesses. The primary [...]
 
 ## Features
 
@@ -27,6 +27,18 @@ This repository contains data visualisation tools and scripts, built using Pytho
 - Total issues
 - Heatmaps of bottleneck zones
 - Delivery solution pie chart by type
+
+## Screenshots
+
+Here are some example screenshots of visualisations produced by this project:
+
+### Parcel Flow Dashboard
+![Parcel Flow Dashboard](screenshots/parcel_flow_dashboard.png)
+
+### Bottleneck Heatmap
+![Bottleneck Heatmap](screenshots/heatmap_bottlenecks.png)
+
+<!-- Add or replace these with your actual screenshots and paths as needed -->
 
 ## Contributing
 
