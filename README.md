@@ -33,7 +33,7 @@ This repository contains data visualisation tools and scripts, built using Pytho
 Here are some example screenshots of visualisations produced by this project:
 
 ### Parcel Flow Dashboard
-![Parcel Flow Dashboard](screenshots/parcel_flow_dashboard.png)
+![Parcel Flow Dashboard](assets/Bar Chart for Resolution Frequency.svg)
 
 ### Bottleneck Heatmap
 ![Bottleneck Heatmap](screenshots/heatmap_bottlenecks.png)
