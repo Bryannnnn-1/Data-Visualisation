@@ -33,13 +33,13 @@ This repository contains data visualisation tools and scripts, built using Pytho
 Here are some example screenshots of visualisations produced by this project:
 
 ### Bar chart of solution
-![Parcel Flow Dashboard](assets/Bar_Chart_for_Resolution_Frequency.svg)
+![Bar chart of solution](assets/Bar_Chart_for_Resolution_Frequency.svg)
 
 ### Display in text form
-![Bottleneck Heatmap](assets/text_display_of_solution.png)
+![Display in text form](assets/text_display_of_solution.png)
 
 ### Line graph of average time
-![Bottleneck Heatmap](assets/Line_graph_of_average_time.svg)
+![Line graph of average time](assets/Line_graph_of_average_time.svg)
 
 ### And Many more!!
 
