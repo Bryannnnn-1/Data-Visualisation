@@ -25,7 +25,6 @@ This repository contains data visualisation tools and scripts, built using Pytho
 
 - Delivery issue pie chart by type
 - Total issues
-- Heatmaps of bottleneck zones
 - Delivery solution pie chart by type
 
 ## Screenshots
